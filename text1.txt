@@ -1,0 +1,4 @@
+ok 1
+okk 2
+tyu 3
+tyz 4
